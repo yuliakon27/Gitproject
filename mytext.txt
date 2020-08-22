@@ -29,3 +29,6 @@ git push -u origin master
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
  line changed from PC before getting github change
+
+ lines changed in github
+
