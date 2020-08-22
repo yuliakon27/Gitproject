@@ -1,0 +1,31 @@
+GIT INTRODUCTION 
+git init - to initiate yourself
+
+git add .
+git commit -m “hah” use the commend otherwise it will open the editor
+git status - to see the result
+
+if you have another changes you have to do it again, but in that case use -am
+git add .
+git commit -am “commend”
+git log
+git config —global user.name “name”
+git config —global user.email yu.l@gmail.com
+
+######################################
+https://github.com/yuliakon27/Gitproject.git
+ 
+echo "# Gitproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yuliakon27/Gitproject.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/yuliakon27/Gitproject.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+ NEW CHANGED
