@@ -20,7 +20,7 @@ The most popular source control tool is git nowadays. It is a distributed source
 - [x] Merge Conflicts 
 - [x] git log
 - [x] Making Changes
-- [ ] Branching
+- [x] Branching
 
 
 ### Git: core commands
@@ -159,3 +159,4 @@ You can find the full instruction and video [here](https://www.jetbrains.com/hel
 * [git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 changed 
+changed again
