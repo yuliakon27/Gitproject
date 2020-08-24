@@ -1,0 +1,8 @@
+# has to be this way
+add file names you do not want to share, meaning when i PUSH i do not want it to apper on Git Hub
+
+
+not_to_share
+pictures/hello.py
+mydirectory/ (i want to ingnore the whole folder, foldername/)
+.idea/ (hidden folder)
